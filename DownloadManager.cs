@@ -1,5 +1,5 @@
 # ExtensionMethods
-Extension Methods
+
 public static class DownloadManager
 {
       public static void Download(this Book book)
